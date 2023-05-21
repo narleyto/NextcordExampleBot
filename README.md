@@ -1,3 +1,3 @@
 Nextcord Bot Template
 
-![My Image](docs/NextcordExampleBot_Preview.jpg)
+![My Image](docs/NextcordExampleBot_Preview.jpg "image")
