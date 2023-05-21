@@ -6,3 +6,5 @@
 Dont Forget To  Open All Privileged Gateway Intents
 
 ![My Image](docs/intents_image.png "image")
+
+![My Image](docs/token.png "image")
