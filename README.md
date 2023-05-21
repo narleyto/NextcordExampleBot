@@ -1,3 +1,3 @@
 Nextcord Bot Template
 
-Made by Kedy#2222 discord.gg/gobelsube
+![My Image](docs/NextcordExampleBot_Preview.jpg)
